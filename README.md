@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Shounaks
-- 👀 I’m interested in Learning New Stuff
+- Spring Boot is AWESOME!!
 - 🌱 I’m currently learning SOC analyst and Angular 5
+- 👀 Always interested in Learning New Stuff
 - 📫 Reach me via email xD
 
